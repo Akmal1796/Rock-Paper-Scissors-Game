@@ -8,3 +8,7 @@ Screenshot 01
 Screenshot 02
 
 ![Screenshot (411)](https://github.com/Akmal1796/Rock-Paper-Scissors-Game/assets/105329445/0f255c1a-0d39-4704-9284-f051fcf8f73b)
+
+Video Preview
+
+https://github.com/Akmal1796/Rock-Paper-Scissors-Game/assets/105329445/ffa3de8c-646f-49c3-ac5f-71a1ce17d092
